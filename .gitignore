@@ -1,0 +1,14 @@
+# Keep public repository clean
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.log
+node_modules/
+private/
+secrets/
+source/
+records/
+forms/
+filings/
+receipts/private/

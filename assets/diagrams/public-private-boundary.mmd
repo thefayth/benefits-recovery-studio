@@ -1,0 +1,16 @@
+flowchart TB
+  subgraph Public["Public Surface"]
+    A["README and project brief"]
+    B["Workflow visuals"]
+    C["Ownership policies"]
+    D["WordPress draft"]
+  end
+  subgraph Private["Protected Private Engine"]
+    E["Medical and benefits records"]
+    F["Forms, packets, and receipts"]
+    G["Prompts and agent instructions"]
+    H["Credentials and account sessions"]
+  end
+  Public --> I["Understand the project"]
+  Private --> J["No public release"]
+  Private -. blocked boundary .- Public

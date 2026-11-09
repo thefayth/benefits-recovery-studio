@@ -1,70 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="720" viewBox="0 0 1440 720" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
   <title id="title">California Benefits Desk supervised workflow</title>
   <desc id="desc">A six-step private preparation workflow: notice or task, reviewed facts and sources, approved documents, visible portal session, human review and approval, then receipt and follow-up. Live filing is not verified.</desc>
-  <rect width="1440" height="720" fill="#f1f4f1"/>
-  <rect width="1440" height="190" fill="#193e32"/>
-  <rect y="184" width="1440" height="6" fill="#c89232"/>
-  <text x="64" y="82" fill="#f8faf8" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="800">CALIFORNIA BENEFITS DESK</text>
-  <text x="66" y="130" fill="#f1ce7c" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Private preparation. Human-controlled filing.</text>
-  <text x="66" y="162" fill="#e1e9e4" font-family="Segoe UI, Arial, sans-serif" font-size="17">A Papercut workflow for California benefits paperwork and monthly START reports</text>
+  <rect width="1200" height="1000" fill="#f1f4f1"/>
+  <rect width="1200" height="185" fill="#193e32"/>
+  <rect y="179" width="1200" height="6" fill="#c89232"/>
+  <text x="64" y="76" fill="#f8faf8" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="800">CALIFORNIA BENEFITS DESK</text>
+  <text x="66" y="122" fill="#f1ce7c" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600">Private preparation. Human-controlled filing.</text>
+  <text x="66" y="153" fill="#e1e9e4" font-family="Segoe UI, Arial, sans-serif" font-size="17">A Papercut workflow for California benefits paperwork and monthly START reports</text>
 
   <g font-family="Segoe UI, Arial, sans-serif">
-    <rect x="56" y="270" width="188" height="170" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
-    <rect x="56" y="270" width="188" height="10" fill="#235b49"/>
-    <text x="76" y="316" fill="#235b49" font-size="14" font-weight="800">01 / INTAKE</text>
-    <text x="76" y="354" fill="#202c27" font-size="20" font-weight="750">Notice or</text>
-    <text x="76" y="380" fill="#202c27" font-size="20" font-weight="750">task</text>
-    <text x="76" y="417" fill="#53625b" font-size="14">Deadline and next step</text>
+    <rect x="64" y="235" width="500" height="150" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
+    <rect x="64" y="235" width="500" height="9" fill="#235b49"/>
+    <text x="88" y="278" fill="#235b49" font-size="14" font-weight="800">01 / INTAKE</text>
+    <text x="88" y="321" fill="#202c27" font-size="23" font-weight="750">Notice or task</text>
+    <text x="88" y="359" fill="#53625b" font-size="16">Deadline, requested action, and next step</text>
 
-    <path d="M252 355h22m-8-8 8 8-8 8" fill="none" stroke="#235b49" stroke-width="3"/>
+    <rect x="636" y="235" width="500" height="150" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
+    <rect x="636" y="235" width="500" height="9" fill="#235b49"/>
+    <text x="660" y="278" fill="#235b49" font-size="14" font-weight="800">02 / PROVENANCE</text>
+    <text x="660" y="321" fill="#202c27" font-size="23" font-weight="750">Review facts and sources</text>
+    <text x="660" y="359" fill="#53625b" font-size="16">Unknowns and contradictions stay visible</text>
+    <path d="M574 310h48m-12-9 12 9-12 9" fill="none" stroke="#235b49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M886 397v34m-9-12 9 12 9-12" fill="none" stroke="#235b49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 
-    <rect x="280" y="270" width="188" height="170" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
-    <rect x="280" y="270" width="188" height="10" fill="#235b49"/>
-    <text x="300" y="316" fill="#235b49" font-size="14" font-weight="800">02 / PROVENANCE</text>
-    <text x="300" y="354" fill="#202c27" font-size="20" font-weight="750">Review facts</text>
-    <text x="300" y="380" fill="#202c27" font-size="20" font-weight="750">and sources</text>
-    <text x="300" y="417" fill="#53625b" font-size="14">Unknowns stay visible</text>
+    <rect x="636" y="435" width="500" height="150" fill="#ffffff" stroke="#c89232" stroke-width="3"/>
+    <rect x="636" y="435" width="500" height="9" fill="#c89232"/>
+    <text x="660" y="478" fill="#725015" font-size="14" font-weight="800">03 / DOCUMENTS</text>
+    <text x="660" y="521" fill="#202c27" font-size="23" font-weight="750">Review each required file</text>
+    <text x="660" y="559" fill="#53625b" font-size="16">Originals are preserved for review</text>
 
-    <path d="M476 355h22m-8-8 8 8-8 8" fill="none" stroke="#235b49" stroke-width="3"/>
+    <rect x="64" y="435" width="500" height="150" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
+    <rect x="64" y="435" width="500" height="9" fill="#235b49"/>
+    <text x="88" y="478" fill="#235b49" font-size="14" font-weight="800">04 / PORTAL</text>
+    <text x="88" y="521" fill="#202c27" font-size="23" font-weight="750">Visible portal session</text>
+    <text x="88" y="559" fill="#53625b" font-size="16">You sign in and complete MFA</text>
+    <path d="M626 510h-48m12-9-12 9 12 9" fill="none" stroke="#235b49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M314 597v34m-9-12 9 12 9-12" fill="none" stroke="#235b49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 
-    <rect x="504" y="270" width="188" height="170" fill="#ffffff" stroke="#c89232" stroke-width="3"/>
-    <rect x="504" y="270" width="188" height="10" fill="#c89232"/>
-    <text x="524" y="316" fill="#725015" font-size="14" font-weight="800">03 / DOCUMENTS</text>
-    <text x="524" y="354" fill="#202c27" font-size="20" font-weight="750">Review each</text>
-    <text x="524" y="380" fill="#202c27" font-size="20" font-weight="750">required file</text>
-    <text x="524" y="417" fill="#53625b" font-size="14">Originals are preserved</text>
+    <rect x="64" y="635" width="500" height="150" fill="#ffffff" stroke="#a24d45" stroke-width="3"/>
+    <rect x="64" y="635" width="500" height="9" fill="#a24d45"/>
+    <text x="88" y="678" fill="#7b3933" font-size="14" font-weight="800">05 / APPROVAL</text>
+    <text x="88" y="721" fill="#202c27" font-size="23" font-weight="750">You review and approve</text>
+    <text x="88" y="759" fill="#53625b" font-size="16">No silent submission or attestation</text>
 
-    <path d="M700 355h22m-8-8 8 8-8 8" fill="none" stroke="#235b49" stroke-width="3"/>
-
-    <rect x="728" y="270" width="188" height="170" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
-    <rect x="728" y="270" width="188" height="10" fill="#235b49"/>
-    <text x="748" y="316" fill="#235b49" font-size="14" font-weight="800">04 / PORTAL</text>
-    <text x="748" y="354" fill="#202c27" font-size="20" font-weight="750">Visible sign-in</text>
-    <text x="748" y="380" fill="#202c27" font-size="20" font-weight="750">and session</text>
-    <text x="748" y="417" fill="#53625b" font-size="14">MFA stays with you</text>
-
-    <path d="M924 355h22m-8-8 8 8-8 8" fill="none" stroke="#235b49" stroke-width="3"/>
-
-    <rect x="952" y="270" width="188" height="170" fill="#ffffff" stroke="#a24d45" stroke-width="3"/>
-    <rect x="952" y="270" width="188" height="10" fill="#a24d45"/>
-    <text x="972" y="316" fill="#7b3933" font-size="14" font-weight="800">05 / APPROVAL</text>
-    <text x="972" y="354" fill="#202c27" font-size="20" font-weight="750">You review</text>
-    <text x="972" y="380" fill="#202c27" font-size="20" font-weight="750">and approve</text>
-    <text x="972" y="417" fill="#53625b" font-size="14">No silent submission</text>
-
-    <path d="M1148 355h22m-8-8 8 8-8 8" fill="none" stroke="#235b49" stroke-width="3"/>
-
-    <rect x="1176" y="270" width="208" height="170" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
-    <rect x="1176" y="270" width="208" height="10" fill="#235b49"/>
-    <text x="1196" y="316" fill="#235b49" font-size="14" font-weight="800">06 / FOLLOW-UP</text>
-    <text x="1196" y="354" fill="#202c27" font-size="20" font-weight="750">Receipt and</text>
-    <text x="1196" y="380" fill="#202c27" font-size="20" font-weight="750">next action</text>
-    <text x="1196" y="417" fill="#53625b" font-size="14">Status remains distinct</text>
+    <rect x="636" y="635" width="500" height="150" fill="#ffffff" stroke="#235b49" stroke-width="3"/>
+    <rect x="636" y="635" width="500" height="9" fill="#235b49"/>
+    <text x="660" y="678" fill="#235b49" font-size="14" font-weight="800">06 / FOLLOW-UP</text>
+    <text x="660" y="721" fill="#202c27" font-size="23" font-weight="750">Receipt and next action</text>
+    <text x="660" y="759" fill="#53625b" font-size="16">Prepared, submitted, and verified stay distinct</text>
+    <path d="M574 710h48m-12-9 12 9-12 9" fill="none" stroke="#235b49" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 
-  <rect x="56" y="500" width="1328" height="128" fill="#e6f0ea" stroke="#235b49" stroke-width="2"/>
-  <rect x="56" y="500" width="10" height="128" fill="#235b49"/>
-  <text x="88" y="542" fill="#193e32" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Human checkpoint</text>
-  <text x="88" y="577" fill="#202c27" font-family="Segoe UI, Arial, sans-serif" font-size="18">You complete authentication, review the final portal page, attest, and approve each submission.</text>
-  <text x="88" y="655" fill="#53625b" font-family="Segoe UI, Arial, sans-serif" font-size="16">Synthetic training is tested. Live BenefitsCal filing, county acceptance, and production deployment are not verified.</text>
+  <rect x="64" y="825" width="1072" height="102" fill="#e6f0ea" stroke="#235b49" stroke-width="2"/>
+  <rect x="64" y="825" width="9" height="102" fill="#235b49"/>
+  <text x="92" y="865" fill="#193e32" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">Human checkpoint</text>
+  <text x="92" y="897" fill="#202c27" font-family="Segoe UI, Arial, sans-serif" font-size="17">You authenticate, review the final portal page, attest, and approve each submission.</text>
+  <text x="68" y="966" fill="#53625b" font-family="Segoe UI, Arial, sans-serif" font-size="15">Synthetic training is tested. Live BenefitsCal filing, county acceptance, and production deployment are not verified.</text>
 </svg>

@@ -79,11 +79,9 @@ private records stay protected; public understanding stays strong.
 
 ## Current Status
 
-- Public export status: created and populated on GitHub via GitHub CLI.
+- Historical project notes (2026-06-18): public export created, v1 slug available, and a website draft prepared for https://faithcheltenham.com/projects/benefits-recovery-studio/.
+- The earlier privacy-readiness label is historical context, not a current security audit or production approval.
 - Repository slug: `benefits-recovery-studio`.
-- Version status: v1 slug available during GitHub CLI check on 2026-06-18.
-- Website draft: prepared for https://faithcheltenham.com/projects/benefits-recovery-studio/.
-- Privacy posture: ready after Faith review.
 
 The dated status note above records what was locally verified on 2026-11-09;
 it does not replace a production or privacy review.

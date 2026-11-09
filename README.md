@@ -55,7 +55,7 @@ reviewed documents, contradiction handling, supervised portal steps, and
 separate prepared, signed, uploaded, submitted, and receipt-verified states.
 MFA and the final approval remain human checkpoints.
 
-**Status note — 2026-11-09:** the local UI build and synthetic BenefitsCal
+**Status note - 2026-11-09:** the local UI build and synthetic BenefitsCal
 training flow passed. This verifies the local interface and training workflow
 only. Live BenefitsCal filing, production deployment, county acceptance, and
 agency affiliation have not been verified. No real case records, credentials,
